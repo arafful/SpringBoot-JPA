@@ -10,5 +10,6 @@ public class CursosbjavaApplication {
 		SpringApplication.run(CursosbjavaApplication.class, args);
 	}
 
+	// Versão inicial do projeto
 	
 }
